@@ -1,7 +1,7 @@
 
 #gif{ 
     transform: translate3d(200px, 200px, 0) rotateY(180deg);
-    transition-duration: 1s;
+    transition-duration: 2s;
     transition-property: transform ;
     transition-timing-function: ease-in-out;
 }
